@@ -2,7 +2,7 @@
 
 Analyse de données NBA avec prédiction de salaire par régression linéaire.
 
-**Contexte** : Projet de rattrapage pour le cours de Python ISUP 2025. L'objectif est d'implémenter une régression linéaire sans utiliser sklearn/statsmodels et de créer 3 fonctionnalités d'analyse NBA.
+**Contexte** : Projet pour le cours de Python ISUP 2025. L'objectif est d'implémenter une régression linéaire sans utiliser sklearn/statsmodels et de créer 3 fonctionnalités d'analyse NBA.
 
 ## Installation
 
